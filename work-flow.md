@@ -1,3 +1,5 @@
+![alt text](images/expense-tf-dev.svg)
+
 ## VPC (Virtual Private Cloud) Module 
 Here, we are using our own VPC module.
 * First, we need to create `VPC` with CIDR (Here, we are using `10.0.0.0/16` where first three octets are blocked)
